@@ -1,0 +1,1646 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FDEF3228-0701-4CAA-A769-95C3235AC4C2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>JS</RootNamespace>
+    <AssemblyName>JS</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.6.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\packages\BouncyCastle.1.8.6.1\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.Dataviz.WinForms, Version=2.1.3.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.Dataviz.WinForms.2.1.4\lib\Bunifu.Dataviz.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.Licensing, Version=3.2.0.0, Culture=neutral, PublicKeyToken=f89b4760ba7dcb6b, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.Dataviz.WinForms.2.1.4\lib\Bunifu.Licensing.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>..\..\..\..\Downloads\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.1.4, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.1.4\lib\net40\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.2, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13.2\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialDesignColors, Version=1.2.7.1979, Culture=neutral, PublicKeyToken=df2a72020bd7962a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialDesignColors.1.2.7\lib\net45\MaterialDesignColors.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialDesignThemes.Wpf, Version=3.2.0.1979, Culture=neutral, PublicKeyToken=df2a72020bd7962a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialDesignThemes.3.2.0\lib\net45\MaterialDesignThemes.Wpf.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1427.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1427.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1427.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1427.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebDesign, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.1427.0\lib\net40\Microsoft.ReportViewer.WebDesign.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Report.Viewer.11.0.0.0\lib\net\Microsoft.ReportViewer.WebForms.DLL</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1427.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddBrand.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddBrand.Designer.cs">
+      <DependentUpon>AddBrand.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddCategory.Designer.cs">
+      <DependentUpon>AddCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddCategoryMessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddCategoryMessageBox.Designer.cs">
+      <DependentUpon>AddCategoryMessageBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddCompanyContactDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddCompanyContactDetails.Designer.cs">
+      <DependentUpon>AddCompanyContactDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddCompanyData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddCompanyData.Designer.cs">
+      <DependentUpon>AddCompanyData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddContactPerson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddContactPerson.Designer.cs">
+      <DependentUpon>AddContactPerson.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddCustomer.Designer.cs">
+      <DependentUpon>AddCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddExpense.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddExpense.Designer.cs">
+      <DependentUpon>AddExpense.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddExpenseMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddExpenseMessage.Designer.cs">
+      <DependentUpon>AddExpenseMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddProduct.Designer.cs">
+      <DependentUpon>AddProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddProductinCusOrderMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddProductinCusOrderMessage.Designer.cs">
+      <DependentUpon>AddProductinCusOrderMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddStock.Designer.cs">
+      <DependentUpon>AddStock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BrandAddedMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BrandAddedMessage.Designer.cs">
+      <DependentUpon>BrandAddedMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BrandReportViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BrandReportViewer.Designer.cs">
+      <DependentUpon>BrandReportViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Brands.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Brands.Designer.cs">
+      <DependentUpon>Brands.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Category.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Category.Designer.cs">
+      <DependentUpon>Category.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CategoryData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CategoryData.Designer.cs">
+      <DependentUpon>CategoryData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CategoryNotFoundMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CategoryNotFoundMessage.Designer.cs">
+      <DependentUpon>CategoryNotFoundMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CategoryReportViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CategoryReportViewer.Designer.cs">
+      <DependentUpon>CategoryReportViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChangePass2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangePass2.Designer.cs">
+      <DependentUpon>ChangePass2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangePassword.Designer.cs">
+      <DependentUpon>ChangePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChangePasswordMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangePasswordMessage.Designer.cs">
+      <DependentUpon>ChangePasswordMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CnicFormatMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CnicFormatMessage.Designer.cs">
+      <DependentUpon>CnicFormatMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Comanycontactdelete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Comanycontactdelete.Designer.cs">
+      <DependentUpon>Comanycontactdelete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Company.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Company.Designer.cs">
+      <DependentUpon>Company.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CompanyAddedMessagebox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CompanyAddedMessagebox.Designer.cs">
+      <DependentUpon>CompanyAddedMessagebox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CompanyContactInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CompanyContactInformation.Designer.cs">
+      <DependentUpon>CompanyContactInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CompanyContactPerson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CompanyContactPerson.Designer.cs">
+      <DependentUpon>CompanyContactPerson.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Companycontactpersonview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Companycontactpersonview.Designer.cs">
+      <DependentUpon>Companycontactpersonview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Companycontactupdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Companycontactupdate.Designer.cs">
+      <DependentUpon>Companycontactupdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CompanyData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CompanyData.Designer.cs">
+      <DependentUpon>CompanyData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="companydetailsview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="companydetailsview.Designer.cs">
+      <DependentUpon>companydetailsview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CompanyOrderDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CompanyOrderDetails.Designer.cs">
+      <DependentUpon>CompanyOrderDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerInvoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerInvoice.Designer.cs">
+      <DependentUpon>CustomerInvoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CompanyOrderReportViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CompanyOrderReportViewer.Designer.cs">
+      <DependentUpon>CompanyOrderReportViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CompanyReportViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CompanyReportViewer.Designer.cs">
+      <DependentUpon>CompanyReportViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerAddedMessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerAddedMessageBox.Designer.cs">
+      <DependentUpon>CustomerAddedMessageBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerData.Designer.cs">
+      <DependentUpon>CustomerData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerOrderData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerOrderData.Designer.cs">
+      <DependentUpon>CustomerOrderData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerOrderDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerOrderDetails.Designer.cs">
+      <DependentUpon>CustomerOrderDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerOrdPayRepViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerOrdPayRepViewer.Designer.cs">
+      <DependentUpon>CustomerOrdPayRepViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerReportViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerReportViewer.Designer.cs">
+      <DependentUpon>CustomerReportViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customers.Designer.cs">
+      <DependentUpon>Customers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustOrderProDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustOrderProDetails.Designer.cs">
+      <DependentUpon>CustOrderProDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteBrandPermission.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteBrandPermission.Designer.cs">
+      <DependentUpon>DeleteBrandPermission.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteCategoryPermission.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteCategoryPermission.Designer.cs">
+      <DependentUpon>DeleteCategoryPermission.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteCompanyContactPerson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteCompanyContactPerson.Designer.cs">
+      <DependentUpon>DeleteCompanyContactPerson.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteCompanyDataPermission.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteCompanyDataPermission.Designer.cs">
+      <DependentUpon>DeleteCompanyDataPermission.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteCustomer.Designer.cs">
+      <DependentUpon>DeleteCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteCustOrdProPermission.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteCustOrdProPermission.Designer.cs">
+      <DependentUpon>DeleteCustOrdProPermission.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeletedBrandMessagebox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeletedBrandMessagebox.Designer.cs">
+      <DependentUpon>DeletedBrandMessagebox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeletedCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeletedCategory.Designer.cs">
+      <DependentUpon>DeletedCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeletedCompanyData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeletedCompanyData.Designer.cs">
+      <DependentUpon>DeletedCompanyData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeletedCustOrdPro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeletedCustOrdPro.Designer.cs">
+      <DependentUpon>DeletedCustOrdPro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteExpense.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteExpense.Designer.cs">
+      <DependentUpon>DeleteExpense.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteExpensePermission.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteExpensePermission.Designer.cs">
+      <DependentUpon>DeleteExpensePermission.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeletePermission.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeletePermission.Designer.cs">
+      <DependentUpon>DeletePermission.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteProduct.Designer.cs">
+      <DependentUpon>DeleteProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteProductList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteProductList.Designer.cs">
+      <DependentUpon>DeleteProductList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteProductListPermission.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteProductListPermission.Designer.cs">
+      <DependentUpon>DeleteProductListPermission.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteProductPermission.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteProductPermission.Designer.cs">
+      <DependentUpon>DeleteProductPermission.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteStock.Designer.cs">
+      <DependentUpon>DeleteStock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteStockPermission.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteStockPermission.Designer.cs">
+      <DependentUpon>DeleteStockPermission.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteUser.Designer.cs">
+      <DependentUpon>DeleteUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="deleteuserpermission.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="deleteuserpermission.Designer.cs">
+      <DependentUpon>deleteuserpermission.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeNotFoundMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeNotFoundMessage.Designer.cs">
+      <DependentUpon>EmployeeNotFoundMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnterDigitsOnlyMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnterDigitsOnlyMessage.Designer.cs">
+      <DependentUpon>EnterDigitsOnlyMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnterLettersMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnterLettersMessage.Designer.cs">
+      <DependentUpon>EnterLettersMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExpenseData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExpenseData.Designer.cs">
+      <DependentUpon>ExpenseData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Expenses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Expenses.Designer.cs">
+      <DependentUpon>Expenses.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExpenseViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExpenseViewer.Designer.cs">
+      <DependentUpon>ExpenseViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ForgotPassMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ForgotPassMessage.Designer.cs">
+      <DependentUpon>ForgotPassMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ForgotPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ForgotPassword.Designer.cs">
+      <DependentUpon>ForgotPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImportDatabase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImportDatabase.Designer.cs">
+      <DependentUpon>ImportDatabase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Jewelry_management_database_finalDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Jewelry_management_database_finalDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Jewelry_management_database_finalDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Jewelry_management_database_finalDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Jewelry_management_database_finalDataSet10.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Jewelry_management_database_finalDataSet10.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Jewelry_management_database_finalDataSet11.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Jewelry_management_database_finalDataSet11.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Jewelry_management_database_finalDataSet12.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Jewelry_management_database_finalDataSet12.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Jewelry_management_database_finalDataSet13.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Jewelry_management_database_finalDataSet13.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Jewelry_management_database_finalDataSet14.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Jewelry_management_database_finalDataSet14.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Jewelry_management_database_finalDataSet15.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Jewelry_management_database_finalDataSet15.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Jewelry_management_database_finalDataSet16.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Jewelry_management_database_finalDataSet16.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Jewelry_management_database_finalDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Jewelry_management_database_finalDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Jewelry_management_database_finalDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Jewelry_management_database_finalDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Jewelry_management_database_finalDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Jewelry_management_database_finalDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Jewelry_management_database_finalDataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Jewelry_management_database_finalDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Jewelry_management_database_finalDataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Jewelry_management_database_finalDataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Jewelry_management_database_finalDataSet7.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Jewelry_management_database_finalDataSet7.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Jewelry_management_database_finalDataSet8.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Jewelry_management_database_finalDataSet8.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Jewelry_management_database_finalDataSet9.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Jewelry_management_database_finalDataSet9.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogIn.Designer.cs">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MAIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MAIN.Designer.cs">
+      <DependentUpon>MAIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManageUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageUsers.Designer.cs">
+      <DependentUpon>ManageUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Messagebox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Messagebox.Designer.cs">
+      <DependentUpon>Messagebox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrderBookingDetailAddedMessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrderBookingDetailAddedMessageBox.Designer.cs">
+      <DependentUpon>OrderBookingDetailAddedMessageBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OrderReportViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrderReportViewer.Designer.cs">
+      <DependentUpon>OrderReportViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Orders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Orders.Designer.cs">
+      <DependentUpon>Orders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PaymentDetailsAddedMessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PaymentDetailsAddedMessageBox.Designer.cs">
+      <DependentUpon>PaymentDetailsAddedMessageBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProductAddedMesageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProductAddedMesageBox.Designer.cs">
+      <DependentUpon>ProductAddedMesageBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProductData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProductData.Designer.cs">
+      <DependentUpon>ProductData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProductListAddedMessagebox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProductListAddedMessagebox.Designer.cs">
+      <DependentUpon>ProductListAddedMessagebox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Products.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Products.Designer.cs">
+      <DependentUpon>Products.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProductTypeNotFoundMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProductTypeNotFoundMessage.Designer.cs">
+      <DependentUpon>ProductTypeNotFoundMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ProReportViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProReportViewer.Designer.cs">
+      <DependentUpon>ProReportViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProvideDetailsMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProvideDetailsMessage.Designer.cs">
+      <DependentUpon>ProvideDetailsMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SelectProductMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectProductMessage.Designer.cs">
+      <DependentUpon>SelectProductMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="session.cs" />
+    <Compile Include="SignUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SignUp.Designer.cs">
+      <DependentUpon>SignUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="Stock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stock.Designer.cs">
+      <DependentUpon>Stock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StockAddedMessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StockAddedMessageBox.Designer.cs">
+      <DependentUpon>StockAddedMessageBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StockData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StockData.Designer.cs">
+      <DependentUpon>StockData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="stockdigitsonly.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="stockdigitsonly.Designer.cs">
+      <DependentUpon>stockdigitsonly.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stockfloateddigits.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stockfloateddigits.Designer.cs">
+      <DependentUpon>Stockfloateddigits.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stocklettermessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stocklettermessage.Designer.cs">
+      <DependentUpon>Stocklettermessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="stocknotchangeable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="stocknotchangeable.Designer.cs">
+      <DependentUpon>stocknotchangeable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StockOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StockOrder.Designer.cs">
+      <DependentUpon>StockOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StockProductList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StockProductList.Designer.cs">
+      <DependentUpon>StockProductList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="stockprovidedetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="stockprovidedetails.Designer.cs">
+      <DependentUpon>stockprovidedetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StockReportViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StockReportViewer.Designer.cs">
+      <DependentUpon>StockReportViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="stockselectcategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="stockselectcategory.Designer.cs">
+      <DependentUpon>stockselectcategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="stockselectsupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="stockselectsupplier.Designer.cs">
+      <DependentUpon>stockselectsupplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SupplierNotFoundDetailsMesaage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SupplierNotFoundDetailsMesaage.Designer.cs">
+      <DependentUpon>SupplierNotFoundDetailsMesaage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateBrandData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateBrandData.Designer.cs">
+      <DependentUpon>UpdateBrandData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateCategoryMessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateCategoryMessageBox.Designer.cs">
+      <DependentUpon>UpdateCategoryMessageBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateCompanyContactPerson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateCompanyContactPerson.Designer.cs">
+      <DependentUpon>UpdateCompanyContactPerson.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateCompanyMessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateCompanyMessageBox.Designer.cs">
+      <DependentUpon>UpdateCompanyMessageBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateCustOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateCustOrder.Designer.cs">
+      <DependentUpon>UpdateCustOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateCustOrdProDetailsMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateCustOrdProDetailsMessage.Designer.cs">
+      <DependentUpon>UpdateCustOrdProDetailsMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdatedBrandMessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdatedBrandMessageBox.Designer.cs">
+      <DependentUpon>UpdatedBrandMessageBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdatedExpenseMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdatedExpenseMessage.Designer.cs">
+      <DependentUpon>UpdatedExpenseMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdatedMessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdatedMessageBox.Designer.cs">
+      <DependentUpon>UpdatedMessageBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateProductListMessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateProductListMessageBox.Designer.cs">
+      <DependentUpon>UpdateProductListMessageBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateProductMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateProductMessage.Designer.cs">
+      <DependentUpon>UpdateProductMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateStockMessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateStockMessageBox.Designer.cs">
+      <DependentUpon>UpdateStockMessageBox.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddBrand.resx">
+      <DependentUpon>AddBrand.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddCategory.resx">
+      <DependentUpon>AddCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddCategoryMessageBox.resx">
+      <DependentUpon>AddCategoryMessageBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddCompanyContactDetails.resx">
+      <DependentUpon>AddCompanyContactDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddCompanyData.resx">
+      <DependentUpon>AddCompanyData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddContactPerson.resx">
+      <DependentUpon>AddContactPerson.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddCustomer.resx">
+      <DependentUpon>AddCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddExpense.resx">
+      <DependentUpon>AddExpense.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddExpenseMessage.resx">
+      <DependentUpon>AddExpenseMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddProduct.resx">
+      <DependentUpon>AddProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddProductinCusOrderMessage.resx">
+      <DependentUpon>AddProductinCusOrderMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddStock.resx">
+      <DependentUpon>AddStock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BrandAddedMessage.resx">
+      <DependentUpon>BrandAddedMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BrandReport.rdlc" />
+    <EmbeddedResource Include="BrandReportViewer.resx">
+      <DependentUpon>BrandReportViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Brands.resx">
+      <DependentUpon>Brands.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Category.resx">
+      <DependentUpon>Category.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CategoryData.resx">
+      <DependentUpon>CategoryData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CategoryNotFoundMessage.resx">
+      <DependentUpon>CategoryNotFoundMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CategoryReport.rdlc" />
+    <EmbeddedResource Include="CategoryReportViewer.resx">
+      <DependentUpon>CategoryReportViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangePass2.resx">
+      <DependentUpon>ChangePass2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangePassword.resx">
+      <DependentUpon>ChangePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangePasswordMessage.resx">
+      <DependentUpon>ChangePasswordMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CnicFormatMessage.resx">
+      <DependentUpon>CnicFormatMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Comanycontactdelete.resx">
+      <DependentUpon>Comanycontactdelete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Company.resx">
+      <DependentUpon>Company.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CompanyAddedMessagebox.resx">
+      <DependentUpon>CompanyAddedMessagebox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CompanyContactInformation.resx">
+      <DependentUpon>CompanyContactInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CompanyContactPerson.resx">
+      <DependentUpon>CompanyContactPerson.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Companycontactpersonview.resx">
+      <DependentUpon>Companycontactpersonview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Companycontactupdate.resx">
+      <DependentUpon>Companycontactupdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CompanyData.resx">
+      <DependentUpon>CompanyData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="companydetailsview.resx">
+      <DependentUpon>companydetailsview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CompanyOrderDetails.resx">
+      <DependentUpon>CompanyOrderDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerInvoice.resx">
+      <DependentUpon>CustomerInvoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CompanyOrderDetailsReport.rdlc" />
+    <EmbeddedResource Include="CompanyOrderReportViewer.resx">
+      <DependentUpon>CompanyOrderReportViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CompanyReport.rdlc" />
+    <EmbeddedResource Include="CompanyReportViewer.resx">
+      <DependentUpon>CompanyReportViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerAddedMessageBox.resx">
+      <DependentUpon>CustomerAddedMessageBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerData.resx">
+      <DependentUpon>CustomerData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerOrderData.resx">
+      <DependentUpon>CustomerOrderData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerOrderDetails.resx">
+      <DependentUpon>CustomerOrderDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerOrdersReport.rdlc" />
+    <EmbeddedResource Include="CustomerOrdPayRepViewer.resx">
+      <DependentUpon>CustomerOrdPayRepViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerReport.rdlc" />
+    <EmbeddedResource Include="CustomerReportViewer.resx">
+      <DependentUpon>CustomerReportViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customers.resx">
+      <DependentUpon>Customers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustOrderProDetails.resx">
+      <DependentUpon>CustOrderProDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustPayReport.rdlc" />
+    <EmbeddedResource Include="DeleteBrandPermission.resx">
+      <DependentUpon>DeleteBrandPermission.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteCategoryPermission.resx">
+      <DependentUpon>DeleteCategoryPermission.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteCompanyContactPerson.resx">
+      <DependentUpon>DeleteCompanyContactPerson.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteCompanyDataPermission.resx">
+      <DependentUpon>DeleteCompanyDataPermission.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteCustomer.resx">
+      <DependentUpon>DeleteCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteCustOrdProPermission.resx">
+      <DependentUpon>DeleteCustOrdProPermission.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeletedBrandMessagebox.resx">
+      <DependentUpon>DeletedBrandMessagebox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeletedCategory.resx">
+      <DependentUpon>DeletedCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeletedCompanyData.resx">
+      <DependentUpon>DeletedCompanyData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeletedCustOrdPro.resx">
+      <DependentUpon>DeletedCustOrdPro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteExpense.resx">
+      <DependentUpon>DeleteExpense.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteExpensePermission.resx">
+      <DependentUpon>DeleteExpensePermission.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeletePermission.resx">
+      <DependentUpon>DeletePermission.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteProduct.resx">
+      <DependentUpon>DeleteProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteProductList.resx">
+      <DependentUpon>DeleteProductList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteProductListPermission.resx">
+      <DependentUpon>DeleteProductListPermission.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteProductPermission.resx">
+      <DependentUpon>DeleteProductPermission.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteStock.resx">
+      <DependentUpon>DeleteStock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteStockPermission.resx">
+      <DependentUpon>DeleteStockPermission.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteUser.resx">
+      <DependentUpon>DeleteUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="deleteuserpermission.resx">
+      <DependentUpon>deleteuserpermission.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeNotFoundMessage.resx">
+      <DependentUpon>EmployeeNotFoundMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnterDigitsOnlyMessage.resx">
+      <DependentUpon>EnterDigitsOnlyMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnterLettersMessage.resx">
+      <DependentUpon>EnterLettersMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExpenseData.resx">
+      <DependentUpon>ExpenseData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExpenseReport.rdlc" />
+    <EmbeddedResource Include="Expenses.resx">
+      <DependentUpon>Expenses.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExpenseViewer.resx">
+      <DependentUpon>ExpenseViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ForgotPassMessage.resx">
+      <DependentUpon>ForgotPassMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ForgotPassword.resx">
+      <DependentUpon>ForgotPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImportDatabase.resx">
+      <DependentUpon>ImportDatabase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogIn.resx">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MAIN.resx">
+      <DependentUpon>MAIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageUsers.resx">
+      <DependentUpon>ManageUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Messagebox.resx">
+      <DependentUpon>Messagebox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrderBookingDetailAddedMessageBox.resx">
+      <DependentUpon>OrderBookingDetailAddedMessageBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrderReportViewer.resx">
+      <DependentUpon>OrderReportViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Orders.resx">
+      <DependentUpon>Orders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PaymentDetailsAddedMessageBox.resx">
+      <DependentUpon>PaymentDetailsAddedMessageBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProductAddedMesageBox.resx">
+      <DependentUpon>ProductAddedMesageBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProductData.resx">
+      <DependentUpon>ProductData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProductListAddedMessagebox.resx">
+      <DependentUpon>ProductListAddedMessagebox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Products.resx">
+      <DependentUpon>Products.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProductTypeNotFoundMessage.resx">
+      <DependentUpon>ProductTypeNotFoundMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ProReport.rdlc" />
+    <EmbeddedResource Include="ProReportViewer.resx">
+      <DependentUpon>ProReportViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProvideDetailsMessage.resx">
+      <DependentUpon>ProvideDetailsMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelectProductMessage.resx">
+      <DependentUpon>SelectProductMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SignUp.resx">
+      <DependentUpon>SignUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stock.resx">
+      <DependentUpon>Stock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StockAddedMessageBox.resx">
+      <DependentUpon>StockAddedMessageBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StockData.resx">
+      <DependentUpon>StockData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="stockdigitsonly.resx">
+      <DependentUpon>stockdigitsonly.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stockfloateddigits.resx">
+      <DependentUpon>Stockfloateddigits.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stocklettermessage.resx">
+      <DependentUpon>Stocklettermessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="stocknotchangeable.resx">
+      <DependentUpon>stocknotchangeable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StockOrder.resx">
+      <DependentUpon>StockOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StockProductList.resx">
+      <DependentUpon>StockProductList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="stockprovidedetails.resx">
+      <DependentUpon>stockprovidedetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StockReport.rdlc" />
+    <EmbeddedResource Include="StockReportViewer.resx">
+      <DependentUpon>StockReportViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="stockselectcategory.resx">
+      <DependentUpon>stockselectcategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="stockselectsupplier.resx">
+      <DependentUpon>stockselectsupplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SupplierNotFoundDetailsMesaage.resx">
+      <DependentUpon>SupplierNotFoundDetailsMesaage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateBrandData.resx">
+      <DependentUpon>UpdateBrandData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateCategoryMessageBox.resx">
+      <DependentUpon>UpdateCategoryMessageBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateCompanyContactPerson.resx">
+      <DependentUpon>UpdateCompanyContactPerson.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateCompanyMessageBox.resx">
+      <DependentUpon>UpdateCompanyMessageBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateCustOrder.resx">
+      <DependentUpon>UpdateCustOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateCustOrdProDetailsMessage.resx">
+      <DependentUpon>UpdateCustOrdProDetailsMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdatedBrandMessageBox.resx">
+      <DependentUpon>UpdatedBrandMessageBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdatedExpenseMessage.resx">
+      <DependentUpon>UpdatedExpenseMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdatedMessageBox.resx">
+      <DependentUpon>UpdatedMessageBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateProductListMessageBox.resx">
+      <DependentUpon>UpdateProductListMessageBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateProductMessage.resx">
+      <DependentUpon>UpdateProductMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateStockMessageBox.resx">
+      <DependentUpon>UpdateStockMessageBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet.xsc">
+      <DependentUpon>Jewelry_management_database_finalDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Jewelry_management_database_finalDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet.xss">
+      <DependentUpon>Jewelry_management_database_finalDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet1.xsc">
+      <DependentUpon>Jewelry_management_database_finalDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Jewelry_management_database_finalDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet1.xss">
+      <DependentUpon>Jewelry_management_database_finalDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet10.xsc">
+      <DependentUpon>Jewelry_management_database_finalDataSet10.xsd</DependentUpon>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet10.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Jewelry_management_database_finalDataSet10.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet10.xss">
+      <DependentUpon>Jewelry_management_database_finalDataSet10.xsd</DependentUpon>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet11.xsc">
+      <DependentUpon>Jewelry_management_database_finalDataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet11.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Jewelry_management_database_finalDataSet11.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet11.xss">
+      <DependentUpon>Jewelry_management_database_finalDataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet12.xsc">
+      <DependentUpon>Jewelry_management_database_finalDataSet12.xsd</DependentUpon>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet12.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Jewelry_management_database_finalDataSet12.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet12.xss">
+      <DependentUpon>Jewelry_management_database_finalDataSet12.xsd</DependentUpon>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet13.xsc">
+      <DependentUpon>Jewelry_management_database_finalDataSet13.xsd</DependentUpon>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet13.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Jewelry_management_database_finalDataSet13.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet13.xss">
+      <DependentUpon>Jewelry_management_database_finalDataSet13.xsd</DependentUpon>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet14.xsc">
+      <DependentUpon>Jewelry_management_database_finalDataSet14.xsd</DependentUpon>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet14.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Jewelry_management_database_finalDataSet14.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet14.xss">
+      <DependentUpon>Jewelry_management_database_finalDataSet14.xsd</DependentUpon>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet15.xsc">
+      <DependentUpon>Jewelry_management_database_finalDataSet15.xsd</DependentUpon>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet15.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Jewelry_management_database_finalDataSet15.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet15.xss">
+      <DependentUpon>Jewelry_management_database_finalDataSet15.xsd</DependentUpon>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet16.xsc">
+      <DependentUpon>Jewelry_management_database_finalDataSet16.xsd</DependentUpon>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet16.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Jewelry_management_database_finalDataSet16.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet16.xss">
+      <DependentUpon>Jewelry_management_database_finalDataSet16.xsd</DependentUpon>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet2.xsc">
+      <DependentUpon>Jewelry_management_database_finalDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Jewelry_management_database_finalDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet2.xss">
+      <DependentUpon>Jewelry_management_database_finalDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet3.xsc">
+      <DependentUpon>Jewelry_management_database_finalDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Jewelry_management_database_finalDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet3.xss">
+      <DependentUpon>Jewelry_management_database_finalDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet4.xsc">
+      <DependentUpon>Jewelry_management_database_finalDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Jewelry_management_database_finalDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet4.xss">
+      <DependentUpon>Jewelry_management_database_finalDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet5.xsc">
+      <DependentUpon>Jewelry_management_database_finalDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Jewelry_management_database_finalDataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet5.xss">
+      <DependentUpon>Jewelry_management_database_finalDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet6.xsc">
+      <DependentUpon>Jewelry_management_database_finalDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Jewelry_management_database_finalDataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet6.xss">
+      <DependentUpon>Jewelry_management_database_finalDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet7.xsc">
+      <DependentUpon>Jewelry_management_database_finalDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet7.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Jewelry_management_database_finalDataSet7.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet7.xss">
+      <DependentUpon>Jewelry_management_database_finalDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet8.xsc">
+      <DependentUpon>Jewelry_management_database_finalDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet8.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Jewelry_management_database_finalDataSet8.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet8.xss">
+      <DependentUpon>Jewelry_management_database_finalDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet9.xsc">
+      <DependentUpon>Jewelry_management_database_finalDataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet9.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Jewelry_management_database_finalDataSet9.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Jewelry_management_database_finalDataSet9.xss">
+      <DependentUpon>Jewelry_management_database_finalDataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="JS.Jewelry_management_database_finalDataSet2TableAdapters.Product_TypeTableAdapter.datasource" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MZ_white_text_2_20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\whole_white_MZ_3_25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MZ LOGO ALL WELL.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\only MZ.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_ecommerce-08_4707164 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3289576-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-jewelry-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-jewelry-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\floweer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imitation.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\name MZ.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\artboard_1_copy_5_3x-100.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\madrion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\madrion1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4707164-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4707164-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-jewelry-50 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-jewelry-100 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-jewelry-100 %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5402435-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5402435-641.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mordim.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo gif.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Invoice.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Person.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dummy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Plus sign.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\370092-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marison.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5402377-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.1 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1976051-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3844439-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\MaterialDesignThemes.3.2.0\build\MaterialDesignThemes.targets" Condition="Exists('..\packages\MaterialDesignThemes.3.2.0\build\MaterialDesignThemes.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\MaterialDesignThemes.3.2.0\build\MaterialDesignThemes.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\MaterialDesignThemes.3.2.0\build\MaterialDesignThemes.targets'))" />
+  </Target>
+</Project>

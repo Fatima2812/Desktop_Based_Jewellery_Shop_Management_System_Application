@@ -1,0 +1,1248 @@
+C:\Users\PROBOOK\source\repos\JS\JS\bin\Debug\JS.exe.config
+C:\Users\PROBOOK\source\repos\JS\JS\bin\Debug\JS.exe
+C:\Users\PROBOOK\source\repos\JS\JS\bin\Debug\JS.pdb
+C:\Users\PROBOOK\source\repos\JS\JS\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.csprojAssemblyReference.cache
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.Properties.Resources.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.csproj.GenerateResource.cache
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.csproj.CoreCompileInputs.cache
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.csproj.CopyComplete
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.exe
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.pdb
+C:\Users\PROBOOK\source\repos\JS\JS\bin\Debug\MaterialDesignColors.dll
+C:\Users\PROBOOK\source\repos\JS\JS\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\PROBOOK\source\repos\JS\JS\bin\Debug\MaterialDesignColors.pdb
+C:\Users\PROBOOK\source\repos\JS\JS\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\PROBOOK\source\repos\JS\JS\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.SplashScreen.resources
+C:\Users\PROBOOK\source\repos\JS\JS\bin\Debug\Guna.UI2.dll
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.LogIn.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.SignUp.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.Customers.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.AddCustomer.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.CustomerAddedMessageBox.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.CustomerData.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.UpdatedMessageBox.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.DeletePermission.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.UpdateCustomer.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.MAIN.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.Stock.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.AddStock.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.StockAddedMessageBox.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.StockOrder.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.ProductListAddedMessagebox.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.StockProductList.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.UpdateProductList.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.UpdateProductListMessageBox.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.UpdateStock.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.UpdateStockMessageBox.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.ManageUsers.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.deleteuserpermission.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.DeleteProductListPermission.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.DeleteStockPermission.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.DeleteCustomer.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.DeleteProductList.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.DeleteStock.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.DeleteUser.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.Company.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.CompanyContactInformation.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.CompanyContactPerson.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.CompanyData.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.CompanyAddedMessagebox.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.DeleteCompanyDataPermission.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.DeletedCompanyData.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.UpdateCompanyData.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.UpdateCompanyMessageBox.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.AddCompanyContactDetails.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.AddCompanyData.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.AddContactPerson.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.UpdateCompanyContactDetails.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.UpdateContactPerson.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.Brands.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.AddBrand.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.BrandAddedMessage.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.BrandData.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.DeleteBrandPermission.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.DeletedBrandMessagebox.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.UpdateBrandData.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.UpdatedBrandMessageBox.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.AddCategory.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.AddCategoryMessageBox.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.Category.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.CategoryData.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.DeleteCategoryPermission.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.DeletedCategory.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.UpdateCategory.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.UpdateCategoryMessageBox.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.AddProduct.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.DeleteProduct.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.DeleteProductPermission.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.ProductAddedMesageBox.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.ProductData.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.Products.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.StockData.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.UpdateProduct.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.UpdateProductMessage.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.AddExpense.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.AddExpenseMessage.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.DeleteExpense.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.DeleteExpensePermission.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.ExpenseData.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.Expenses.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.UpdatedExpenseMessage.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.UpdateExpense.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.Orders.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.AddProductinCusOrderMessage.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.CustomerOrderData.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.CustOrderProDetails.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.DeleteCustOrdProPermission.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.DeletedCustOrdPro.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.UpdateCustOrder.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.UpdateCustOrdProDetailsMessage.resources
+C:\Users\PROBOOK\source\repos\JS\JS\obj\Debug\JS.CustomerOrderDetails.resources
+C:\Users\user\Desktop\JS\JS\bin\Debug\JS.exe.config
+C:\Users\user\Desktop\JS\JS\bin\Debug\JS.exe
+C:\Users\user\Desktop\JS\JS\bin\Debug\JS.pdb
+C:\Users\user\Desktop\JS\JS\bin\Debug\MaterialDesignColors.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\MaterialDesignColors.pdb
+C:\Users\user\Desktop\JS\JS\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\user\Desktop\JS\JS\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.csprojAssemblyReference.cache
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.AddBrand.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.AddCategory.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.AddCategoryMessageBox.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.AddCompanyContactDetails.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.AddCompanyData.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.AddContactPerson.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.AddCustomer.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.AddExpense.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.AddExpenseMessage.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.AddProduct.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.AddProductinCusOrderMessage.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.AddStock.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.BrandAddedMessage.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.Brands.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.Category.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.CategoryData.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.Company.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.CompanyAddedMessagebox.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.CompanyContactInformation.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.CompanyContactPerson.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.CompanyData.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.CustomerAddedMessageBox.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.CustomerData.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.CustomerOrderData.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.CustomerOrderDetails.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.Customers.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.CustOrderProDetails.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.DeleteBrandPermission.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.DeleteCategoryPermission.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.DeleteCompanyDataPermission.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.DeleteCustomer.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.DeleteCustOrdProPermission.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.DeletedBrandMessagebox.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.DeletedCategory.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.DeletedCompanyData.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.DeletedCustOrdPro.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.DeleteExpense.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.DeleteExpensePermission.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.DeletePermission.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.DeleteProduct.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.DeleteProductList.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.DeleteProductListPermission.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.DeleteProductPermission.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.DeleteStock.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.DeleteStockPermission.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.DeleteUser.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.deleteuserpermission.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.ExpenseData.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.Expenses.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.SplashScreen.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.LogIn.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.MAIN.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.ManageUsers.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.Orders.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.ProductAddedMesageBox.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.ProductData.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.ProductListAddedMessagebox.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.Products.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.Properties.Resources.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.SignUp.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.Stock.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.StockAddedMessageBox.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.StockData.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.StockOrder.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.StockProductList.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.UpdateBrandData.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.UpdateCategoryMessageBox.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.UpdateCompanyMessageBox.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.UpdateCustOrder.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.UpdateCustOrdProDetailsMessage.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.UpdatedBrandMessageBox.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.UpdatedExpenseMessage.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.UpdatedMessageBox.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.UpdateProductListMessageBox.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.UpdateProductMessage.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.UpdateStockMessageBox.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.csproj.GenerateResource.cache
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.csproj.CopyComplete
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.exe
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.pdb
+C:\Users\PROBOOK\Downloads\JS\JS\bin\Debug\JS.exe.config
+C:\Users\PROBOOK\Downloads\JS\JS\bin\Debug\JS.exe
+C:\Users\PROBOOK\Downloads\JS\JS\bin\Debug\JS.pdb
+C:\Users\PROBOOK\Downloads\JS\JS\bin\Debug\Guna.UI2.dll
+C:\Users\PROBOOK\Downloads\JS\JS\bin\Debug\MaterialDesignColors.dll
+C:\Users\PROBOOK\Downloads\JS\JS\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\PROBOOK\Downloads\JS\JS\bin\Debug\MaterialDesignColors.pdb
+C:\Users\PROBOOK\Downloads\JS\JS\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\PROBOOK\Downloads\JS\JS\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.csprojAssemblyReference.cache
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.AddBrand.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.AddCategory.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.AddCategoryMessageBox.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.AddCompanyContactDetails.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.AddCompanyData.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.AddContactPerson.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.AddCustomer.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.AddExpense.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.AddExpenseMessage.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.AddProduct.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.AddProductinCusOrderMessage.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.AddStock.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.BrandAddedMessage.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.BrandData.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.Brands.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.Category.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.CategoryData.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.Company.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.CompanyAddedMessagebox.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.CompanyContactInformation.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.CompanyContactPerson.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.CompanyData.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.CustomerAddedMessageBox.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.CustomerData.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.CustomerOrderData.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.CustomerOrderDetails.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.Customers.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.CustOrderProDetails.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.DeleteBrandPermission.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.DeleteCategoryPermission.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.DeleteCompanyDataPermission.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.DeleteCustomer.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.DeleteCustOrdProPermission.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.DeletedBrandMessagebox.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.DeletedCategory.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.DeletedCompanyData.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.DeletedCustOrdPro.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.DeleteExpense.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.DeleteExpensePermission.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.DeletePermission.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.DeleteProduct.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.DeleteProductList.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.DeleteProductListPermission.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.DeleteProductPermission.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.DeleteStock.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.DeleteStockPermission.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.DeleteUser.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.deleteuserpermission.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.ExpenseData.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.Expenses.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.SplashScreen.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.LogIn.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.MAIN.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.ManageUsers.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.Orders.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.ProductAddedMesageBox.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.ProductData.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.ProductListAddedMessagebox.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.Products.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.Properties.Resources.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.SignUp.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.Stock.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.StockAddedMessageBox.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.StockData.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.StockOrder.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.StockProductList.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.UpdateBrandData.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.UpdateCategory.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.UpdateCategoryMessageBox.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.UpdateCompanyContactDetails.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.UpdateCompanyData.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.UpdateCompanyMessageBox.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.UpdateContactPerson.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.UpdateCustomer.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.UpdateCustOrder.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.UpdateCustOrdProDetailsMessage.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.UpdatedBrandMessageBox.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.UpdatedExpenseMessage.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.UpdatedMessageBox.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.UpdateExpense.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.UpdateProduct.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.UpdateProductList.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.UpdateProductListMessageBox.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.UpdateProductMessage.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.UpdateStock.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.UpdateStockMessageBox.resources
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.csproj.GenerateResource.cache
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.csproj.CoreCompileInputs.cache
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.csproj.CopyComplete
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.exe
+C:\Users\PROBOOK\Downloads\JS\JS\obj\Debug\JS.pdb
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.CategoryNotFoundMessage.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.ChangePassword.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.ChangePasswordMessage.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.CnicFormatMessage.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.EmployeeNotFoundMessage.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.EnterDigitsOnlyMessage.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.EnterLettersMessage.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.ForgotPassMessage.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.ForgotPassword.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.OrderBookingDetailAddedMessageBox.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.PaymentDetailsAddedMessageBox.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.ProductTypeNotFoundMessage.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.ProvideDetailsMessage.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.SelectProductMessage.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.SupplierNotFoundDetailsMesaage.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\obj\Debug\JS.csprojAssemblyReference.cache
+C:\Users\PROBOOK\Downloads\JS\JS\JS\obj\Debug\JS.exe
+C:\Users\PROBOOK\Downloads\JS\JS\JS\obj\Debug\JS.pdb
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\JS.exe.config
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\JS.exe
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\JS.pdb
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\Guna.UI2.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\MaterialDesignColors.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\MaterialDesignColors.pdb
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.AddBrand.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.AddCategory.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.AddCategoryMessageBox.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.AddCompanyContactDetails.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.AddCompanyData.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.AddContactPerson.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.AddCustomer.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.AddExpense.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.AddExpenseMessage.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.AddProduct.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.AddProductinCusOrderMessage.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.AddStock.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.BrandAddedMessage.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.BrandData.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.Brands.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.Category.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.CategoryData.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.CategoryNotFoundMessage.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.ChangePassword.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.ChangePasswordMessage.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.CnicFormatMessage.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.Company.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.CompanyAddedMessagebox.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.CompanyContactInformation.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.CompanyContactPerson.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.CompanyData.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.CustomerAddedMessageBox.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.CustomerData.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.CustomerOrderData.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.Customers.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.CustOrderProDetails.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.DeleteBrandPermission.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.DeleteCategoryPermission.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.DeleteCompanyDataPermission.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.DeleteCustomer.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.DeleteCustOrdProPermission.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.DeletedBrandMessagebox.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.DeletedCategory.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.DeletedCompanyData.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.DeletedCustOrdPro.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.DeleteExpense.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.DeleteExpensePermission.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.DeletePermission.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.DeleteProduct.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.DeleteProductList.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.DeleteProductListPermission.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.DeleteProductPermission.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.DeleteStock.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.DeleteStockPermission.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.DeleteUser.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.deleteuserpermission.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.EmployeeNotFoundMessage.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.EnterDigitsOnlyMessage.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.EnterLettersMessage.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.ExpenseData.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.Expenses.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.ForgotPassMessage.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.ForgotPassword.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.SplashScreen.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.LogIn.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.MAIN.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.ManageUsers.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.OrderBookingDetailAddedMessageBox.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.Orders.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.PaymentDetailsAddedMessageBox.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.ProductAddedMesageBox.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.ProductData.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.ProductListAddedMessagebox.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.Products.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.ProductTypeNotFoundMessage.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.Properties.Resources.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.ProvideDetailsMessage.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.SelectProductMessage.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.SignUp.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.Stock.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.StockAddedMessageBox.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.StockData.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.StockOrder.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.StockProductList.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.SupplierNotFoundDetailsMesaage.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.UpdateBrandData.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.UpdateCategory.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.UpdateCategoryMessageBox.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.UpdateCompanyContactDetails.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.UpdateCompanyData.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.UpdateCompanyMessageBox.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.UpdateContactPerson.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.UpdateCustomer.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.UpdateCustOrder.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.UpdateCustOrdProDetailsMessage.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.UpdatedBrandMessageBox.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.UpdatedExpenseMessage.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.UpdatedMessageBox.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.UpdateExpense.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.UpdateProduct.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.UpdateProductList.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.UpdateProductListMessageBox.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.UpdateProductMessage.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.UpdateStock.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.UpdateStockMessageBox.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.csproj.GenerateResource.cache
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.csproj.CoreCompileInputs.cache
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.csproj.CopyComplete
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.exe
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.pdb
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.PasswordCodeForm.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\EnvDTE.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\stdole.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\Microsoft.MSXML.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.Customers2.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.ImportDatabase.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\RdlCompile.cache
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\RdlCompile.compiled
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.StockReportViewer.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\itextsharp.dll
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\bin\Debug\itextsharp.xml
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.CategoryReportViewer.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.BrandReportViewer.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.CompanyReportViewer.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.CustomerReportViewer.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.ExpensesReportViewer.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.OrderReportViewer.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.ProductReportViewer.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.CompanyOrderReportViewer.resources
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.csprojAssemblyReference.cache
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.Messagebox.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.csprojAssemblyReference.cache
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.AddBrand.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.AddCategory.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.AddCategoryMessageBox.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.AddCompanyContactDetails.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.AddCompanyData.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.AddContactPerson.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.AddCustomer.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.AddExpense.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.AddExpenseMessage.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.AddProduct.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.AddProductinCusOrderMessage.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.AddStock.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.BrandAddedMessage.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.BrandData.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.BrandReportViewer.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.Brands.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.Category.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.CategoryData.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.CategoryNotFoundMessage.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.CategoryReportViewer.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.ChangePassword.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.ChangePasswordMessage.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.CnicFormatMessage.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.Company.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.CompanyAddedMessagebox.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.CompanyContactInformation.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.CompanyContactPerson.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.CompanyData.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.CustomerInvoice.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.CompanyOrderReportViewer.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.CompanyReportViewer.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.CustomerAddedMessageBox.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.CustomerData.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.CustomerOrderData.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.CustomerOrderDetails.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.CustomerReportViewer.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.Customers.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.Customers2.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.CustOrderProDetails.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.DeleteBrandPermission.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.DeleteCategoryPermission.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.DeleteCompanyDataPermission.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.DeleteCustomer.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.DeleteCustOrdProPermission.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.DeletedBrandMessagebox.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.DeletedCategory.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.DeletedCompanyData.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.DeletedCustOrdPro.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.DeleteExpense.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.DeleteExpensePermission.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.DeletePermission.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.DeleteProduct.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.DeleteProductList.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.DeleteProductListPermission.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.DeleteProductPermission.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.DeleteStock.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.DeleteStockPermission.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.DeleteUser.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.deleteuserpermission.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.EmployeeNotFoundMessage.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.EnterDigitsOnlyMessage.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.EnterLettersMessage.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.ExpenseData.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.Expenses.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.ExpensesReportViewer.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.ForgotPassMessage.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.ForgotPassword.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.SplashScreen.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.ImportDatabase.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.LogIn.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.MAIN.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.ManageUsers.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.Messagebox.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.OrderBookingDetailAddedMessageBox.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.OrderReportViewer.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.Orders.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.PasswordCodeForm.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.PaymentDetailsAddedMessageBox.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.ProductAddedMesageBox.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.ProductData.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.ProductListAddedMessagebox.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.ProductReportViewer.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.Products.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.ProductTypeNotFoundMessage.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.Properties.Resources.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.ProvideDetailsMessage.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.SelectProductMessage.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.SignUp.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.Stock.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.StockAddedMessageBox.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.StockData.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.StockOrder.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.StockProductList.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.StockReportViewer.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.SupplierNotFoundDetailsMesaage.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.UpdateBrandData.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.UpdateCategory.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.UpdateCategoryMessageBox.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.UpdateCompanyContactDetails.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.UpdateCompanyData.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.UpdateCompanyMessageBox.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.UpdateContactPerson.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.UpdateCustomer.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.UpdateCustOrder.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.UpdateCustOrdProDetailsMessage.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.UpdatedBrandMessageBox.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.UpdatedExpenseMessage.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.UpdatedMessageBox.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.UpdateExpense.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.UpdateProduct.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.UpdateProductList.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.UpdateProductListMessageBox.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.UpdateProductMessage.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.UpdateStock.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.UpdateStockMessageBox.resources
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.csproj.GenerateResource.cache
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\RdlCompile.cache
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\RdlCompile.compiled
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\JS.exe.config
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\JS.exe
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\JS.pdb
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\Guna.UI2.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\itextsharp.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\MaterialDesignColors.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\EnvDTE.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\stdole.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\Microsoft.MSXML.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\itextsharp.xml
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\MaterialDesignColors.pdb
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.csproj.CopyComplete
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.exe
+C:\Users\user\Desktop\JS\JS\JS\JS\obj\Debug\JS.pdb
+C:\Users\PROBOOK\Downloads\JS\JS\JS\JS\obj\Debug\JS.CustomerInvoice.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.BrandReportViewer.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.CategoryReportViewer.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.CompanyOrderDetails.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.CustomerInvoice.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.CompanyOrderReportViewer.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.CompanyReportViewer.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.CustomerReportViewer.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.ExpensesReportViewer.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.ImportDatabase.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.OrderReportViewer.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.PasswordCodeForm.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.ProductReportViewer.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.StockReportViewer.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\RdlCompile.cache
+C:\Users\user\Desktop\JS\JS\obj\Debug\RdlCompile.compiled
+C:\Users\user\Desktop\JS\JS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\Guna.UI2.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\itextsharp.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\user\Desktop\JS\JS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\EnvDTE.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\stdole.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\Microsoft.MSXML.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\itextsharp.xml
+C:\Users\user\Desktop\JS\JS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\JS\JS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.MessageboxID.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.stockdigitsonly.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.Stockfloateddigits.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.Stocklettermessage.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.stocknotchangeable.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.stockprovidedetails.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.stockselectcategory.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.stockselectsupplier.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.Companycontactpersonview.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.companydetailsview.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.Comanycontactdelete.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.Companycontactupdate.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.DeleteCompanyContactPerson.resources
+C:\Users\user\Desktop\JS\JS\obj\Debug\JS.UpdateCompanyContactPerson.resources
+D:\Jewelry\JS\JS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Jewelry\JS\JS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Jewelry\JS\JS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Jewelry\JS\JS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Jewelry\JS\JS\bin\Debug\JS.exe.config
+D:\Jewelry\JS\JS\bin\Debug\JS.exe
+D:\Jewelry\JS\JS\bin\Debug\JS.pdb
+D:\Jewelry\JS\JS\bin\Debug\BouncyCastle.Crypto.dll
+D:\Jewelry\JS\JS\bin\Debug\Guna.UI2.dll
+D:\Jewelry\JS\JS\bin\Debug\itextsharp.dll
+D:\Jewelry\JS\JS\bin\Debug\MaterialDesignColors.dll
+D:\Jewelry\JS\JS\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Jewelry\JS\JS\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Jewelry\JS\JS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Jewelry\JS\JS\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Jewelry\JS\JS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Jewelry\JS\JS\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\Jewelry\JS\JS\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\Jewelry\JS\JS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Jewelry\JS\JS\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Jewelry\JS\JS\bin\Debug\EnvDTE.dll
+D:\Jewelry\JS\JS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Jewelry\JS\JS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Jewelry\JS\JS\bin\Debug\stdole.dll
+D:\Jewelry\JS\JS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Jewelry\JS\JS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Jewelry\JS\JS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Jewelry\JS\JS\bin\Debug\Microsoft.MSXML.dll
+D:\Jewelry\JS\JS\bin\Debug\itextsharp.xml
+D:\Jewelry\JS\JS\bin\Debug\MaterialDesignColors.pdb
+D:\Jewelry\JS\JS\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Jewelry\JS\JS\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Jewelry\JS\JS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Jewelry\JS\JS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Jewelry\JS\JS\obj\Debug\JS.AddBrand.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.AddCategory.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.AddCategoryMessageBox.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.AddCompanyContactDetails.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.AddCompanyData.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.AddContactPerson.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.AddCustomer.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.AddExpense.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.AddExpenseMessage.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.AddProduct.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.AddProductinCusOrderMessage.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.AddStock.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.BrandAddedMessage.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.BrandReportViewer.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.Brands.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.Category.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.CategoryData.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.CategoryNotFoundMessage.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.CategoryReportViewer.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.ChangePassword.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.ChangePasswordMessage.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.CnicFormatMessage.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.Comanycontactdelete.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.Company.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.CompanyAddedMessagebox.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.CompanyContactInformation.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.CompanyContactPerson.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.Companycontactpersonview.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.Companycontactupdate.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.CompanyData.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.companydetailsview.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.CompanyOrderDetails.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.CustomerInvoice.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.CompanyOrderReportViewer.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.CompanyReportViewer.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.CustomerAddedMessageBox.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.CustomerData.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.CustomerOrderData.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.CustomerOrderDetails.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.CustomerReportViewer.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.Customers.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.CustOrderProDetails.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.DeleteBrandPermission.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.DeleteCategoryPermission.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.DeleteCompanyContactPerson.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.DeleteCompanyDataPermission.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.DeleteCustomer.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.DeleteCustOrdProPermission.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.DeletedBrandMessagebox.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.DeletedCategory.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.DeletedCompanyData.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.DeletedCustOrdPro.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.DeleteExpense.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.DeleteExpensePermission.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.DeletePermission.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.DeleteProduct.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.DeleteProductList.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.DeleteProductListPermission.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.DeleteProductPermission.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.DeleteStock.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.DeleteStockPermission.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.DeleteUser.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.deleteuserpermission.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.EmployeeNotFoundMessage.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.EnterDigitsOnlyMessage.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.EnterLettersMessage.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.ExpenseData.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.Expenses.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.ForgotPassMessage.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.ForgotPassword.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.SplashScreen.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.ImportDatabase.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.LogIn.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.MAIN.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.ManageUsers.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.MessageboxID.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.OrderBookingDetailAddedMessageBox.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.OrderReportViewer.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.Orders.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.PasswordCodeForm.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.PaymentDetailsAddedMessageBox.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.ProductAddedMesageBox.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.ProductData.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.ProductListAddedMessagebox.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.Products.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.ProductTypeNotFoundMessage.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.Properties.Resources.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.ProvideDetailsMessage.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.SelectProductMessage.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.SignUp.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.Stock.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.StockAddedMessageBox.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.StockData.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.stockdigitsonly.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.Stockfloateddigits.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.Stocklettermessage.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.stocknotchangeable.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.StockOrder.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.StockProductList.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.stockprovidedetails.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.StockReportViewer.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.stockselectcategory.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.stockselectsupplier.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.SupplierNotFoundDetailsMesaage.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.UpdateBrandData.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.UpdateCategoryMessageBox.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.UpdateCompanyContactPerson.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.UpdateCompanyMessageBox.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.UpdateCustOrder.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.UpdateCustOrdProDetailsMessage.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.UpdatedBrandMessageBox.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.UpdatedExpenseMessage.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.UpdatedMessageBox.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.UpdateProductListMessageBox.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.UpdateProductMessage.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.UpdateStockMessageBox.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.csproj.GenerateResource.cache
+D:\Jewelry\JS\JS\obj\Debug\RdlCompile.cache
+D:\Jewelry\JS\JS\obj\Debug\RdlCompile.compiled
+D:\Jewelry\JS\JS\obj\Debug\JS.csproj.CoreCompileInputs.cache
+D:\Jewelry\JS\JS\obj\Debug\JS.csproj.CopyComplete
+D:\Jewelry\JS\JS\obj\Debug\JS.exe
+D:\Jewelry\JS\JS\obj\Debug\JS.pdb
+D:\Jewelry\JS\JS\obj\Debug\JS.ExpenseViewer.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.ProReportViewer.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.CustomerOrdPayRepViewer.resources
+D:\Jewelry\JS\JS\obj\Debug\JS.csprojAssemblyReference.cache
+D:\Jewelry\JS\JS\bin\Debug\Bunifu.Dataviz.WinForms.dll
+D:\Jewelry\JS\JS\bin\Debug\Bunifu.Licensing.dll
+D:\Jewelry\JS\JS\bin\Debug\Bunifu.Dataviz.WinForms.xml
+D:\Jewelry\JS\JS\obj\Debug\JS.ChangePass2.resources
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\JS.exe.config
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\JS.exe
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\JS.pdb
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\BouncyCastle.Crypto.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\Bunifu.Dataviz.WinForms.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\Bunifu.Licensing.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\Guna.UI2.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\itextsharp.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\MaterialDesignColors.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\EnvDTE.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\stdole.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\Microsoft.MSXML.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\Bunifu.Dataviz.WinForms.xml
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\itextsharp.xml
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\MaterialDesignColors.pdb
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.csprojAssemblyReference.cache
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.AddBrand.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.AddCategory.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.AddCategoryMessageBox.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.AddCompanyContactDetails.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.AddCompanyData.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.AddContactPerson.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.AddCustomer.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.AddExpense.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.AddExpenseMessage.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.AddProduct.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.AddProductinCusOrderMessage.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.AddStock.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.BrandAddedMessage.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.BrandReportViewer.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.Brands.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.Category.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.CategoryData.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.CategoryNotFoundMessage.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.CategoryReportViewer.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.ChangePass2.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.ChangePassword.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.ChangePasswordMessage.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.CnicFormatMessage.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.Comanycontactdelete.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.Company.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.CompanyAddedMessagebox.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.CompanyContactInformation.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.CompanyContactPerson.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.Companycontactpersonview.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.Companycontactupdate.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.CompanyData.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.companydetailsview.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.CompanyOrderDetails.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.CustomerInvoice.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.CompanyOrderReportViewer.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.CompanyReportViewer.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.CustomerAddedMessageBox.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.CustomerData.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.CustomerOrderData.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.CustomerOrderDetails.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.CustomerOrdPayRepViewer.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.CustomerReportViewer.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.Customers.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.CustOrderProDetails.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.DeleteBrandPermission.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.DeleteCategoryPermission.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.DeleteCompanyContactPerson.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.DeleteCompanyDataPermission.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.DeleteCustomer.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.DeleteCustOrdProPermission.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.DeletedBrandMessagebox.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.DeletedCategory.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.DeletedCompanyData.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.DeletedCustOrdPro.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.DeleteExpense.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.DeleteExpensePermission.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.DeletePermission.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.DeleteProduct.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.DeleteProductList.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.DeleteProductListPermission.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.DeleteProductPermission.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.DeleteStock.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.DeleteStockPermission.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.DeleteUser.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.deleteuserpermission.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.EmployeeNotFoundMessage.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.EnterDigitsOnlyMessage.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.EnterLettersMessage.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.ExpenseData.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.Expenses.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.ExpenseViewer.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.ForgotPassMessage.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.ForgotPassword.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.SplashScreen.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.ImportDatabase.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.LogIn.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.MAIN.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.ManageUsers.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.MessageboxID.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.OrderBookingDetailAddedMessageBox.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.OrderReportViewer.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.Orders.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.PaymentDetailsAddedMessageBox.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.ProductAddedMesageBox.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.ProductData.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.ProductListAddedMessagebox.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.Products.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.ProductTypeNotFoundMessage.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.Properties.Resources.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.ProReportViewer.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.ProvideDetailsMessage.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.SelectProductMessage.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.SignUp.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.Stock.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.StockAddedMessageBox.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.StockData.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.stockdigitsonly.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.Stockfloateddigits.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.Stocklettermessage.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.stocknotchangeable.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.StockOrder.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.StockProductList.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.stockprovidedetails.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.StockReportViewer.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.stockselectcategory.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.stockselectsupplier.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.SupplierNotFoundDetailsMesaage.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.UpdateBrandData.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.UpdateCategoryMessageBox.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.UpdateCompanyContactPerson.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.UpdateCompanyMessageBox.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.UpdateCustOrder.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.UpdateCustOrdProDetailsMessage.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.UpdatedBrandMessageBox.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.UpdatedExpenseMessage.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.UpdatedMessageBox.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.UpdateProductListMessageBox.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.UpdateProductMessage.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.UpdateStockMessageBox.resources
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.csproj.GenerateResource.cache
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\RdlCompile.cache
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\RdlCompile.compiled
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.csproj.CoreCompileInputs.cache
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.csproj.CopyComplete
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.exe
+D:\5th Semester\Software Design Methodology\JS\JS\obj\Debug\JS.pdb
